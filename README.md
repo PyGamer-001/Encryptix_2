@@ -11,6 +11,3 @@ Following are the libraries required:
 - Scipy
 - Sklearn
 - Pickle
-
-<!------>
-> Note: Kaggle's API information to download datasets
